@@ -15,7 +15,6 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
 - PHP
     * [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON.
-    * [appzcoder/30-seconds-of-php-code](https://github.com/appzcoder/30-seconds-of-php-code) - A curated collection of useful PHP snippets that you can understand in 30 seconds or less.
     * [appzcoder/crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator
     * [appzcoder/laravel-admin](https://github.com/appzcoder/laravel-admin) - Laravel Admin Panel
     * [appzcoder/lumen-route-list](https://github.com/appzcoder/lumen-route-list) - Lumen Route List
