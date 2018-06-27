@@ -11,17 +11,11 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [nahid/gohttp](https://github.com/nahid/gohttp) - HTTP client for Go.
     * [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON Data.
     * [sadlil/go-trigger](https://github.com/sadlil/go-trigger) - A Global event triggerer for golang. Defines functions as event with id string. Trigger the event anywhere from your project.
-- Java
-    *
-- JavaScript
-    *
 - Kotlin
     * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin / Java / Android.
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
 - PHP
     * [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON.
-- Python
-    *
 
 Note : List is sorted lexicographically by programming language.
 ```
