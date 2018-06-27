@@ -7,7 +7,6 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
 - Golang
     * [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
     * [sadlil/go-avro-phonetic](https://github.com/sadlil/go-avro-phonetic) - Golang implementation of Avro Phonetic.
-    * [s4kibs4mi/rapunzel-blog](https://github.com/s4kibs4mi/rapunzel-blog) - Rapunzel Blog is a gRPC based blogging platform written in Golang.
     * [nahid/gohttp](https://github.com/nahid/gohttp) - HTTP client for Go.
     * [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON Data.
     * [sadlil/go-trigger](https://github.com/sadlil/go-trigger) - A Global event triggerer for golang. Defines functions as event with id string. Trigger the event anywhere from your project.
