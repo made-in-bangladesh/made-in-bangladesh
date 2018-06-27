@@ -15,6 +15,8 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
 - PHP
     * [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON.
+- Python
+    * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
 
 Note : List is sorted lexicographically by programming language.
 ```
