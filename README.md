@@ -23,7 +23,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
 - Python
     *
 
-Note : Everything is sorted lexicographically by programming language.
+Note : List is sorted lexicographically by programming language.
 ```
 // format
 * [repository-name](repository-url) - repository-description
