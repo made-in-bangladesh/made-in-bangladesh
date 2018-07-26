@@ -1,0 +1,11 @@
+language: go
+
+sudo: required
+
+matrix:
+  include:
+    - go: 1.10.1
+
+script:
+  - go test -v .
+

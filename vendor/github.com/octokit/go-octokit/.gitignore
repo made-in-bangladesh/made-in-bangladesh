@@ -1,0 +1,4 @@
+*.test
+.env
+.gopack
+cover.out
