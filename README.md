@@ -20,7 +20,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON.
     * [tareq1988/wordpress-settings-api-class](https://github.com/tareq1988/wordpress-settings-api-class) - A PHP class abstraction that removes all the headaches of the WordPress settings API under the hood and builds a nice options panel on the fly.
 - Python
-    * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) A Python query builder for JSON.
+    * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
 
 Note : List is sorted lexicographically by programming language and repo.
 ```
