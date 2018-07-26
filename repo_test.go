@@ -11,6 +11,7 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/octokit/go-octokit/octokit"
 	"github.com/russross/blackfriday"
+	"os"
 )
 
 // Following test file acknowledged thankfully `avelino/awesome-go` for the tests
@@ -96,7 +97,13 @@ const (
 )
 
 func TestStarCount(t *testing.T) {
-	cl := octokit.NewClient(nil)
+
+	var cl = octokit.NewClient(nil)
+	if val := os.Getenv("X_GITHUB_AUTH_TOKEN"); len(val) > 0 {
+		cl = octokit.NewClient(&octokit.TokenAuth{
+			AccessToken: val,
+		})
+	}
 
 	var matched, containsLink, noDescription bool
 	input, err := ioutil.ReadFile("./README.md")
