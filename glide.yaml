@@ -1,0 +1,7 @@
+package: github.com/gophersbd/made-in-bangladesh
+import: []
+testImport:
+- package: github.com/PuerkitoBio/goquery
+  version: ^1.4.1
+- package: github.com/russross/blackfriday
+  version: 11635eb403ff09dbc3a6b5a007ab5ab09151c229

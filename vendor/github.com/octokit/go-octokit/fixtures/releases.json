@@ -1,0 +1,115 @@
+[
+  {
+    "assets": [
+      {
+        "updated_at": "2013-09-23T01:07:56Z",
+        "created_at": "2013-09-23T01:05:20Z",
+        "url": "https://api.github.com/repos/jingweno/gh/releases/assets/20428",
+        "id": 20428,
+        "name": "gh_0.23.0-snapshot_amd64.deb",
+        "label": "gh_0.23.0-snapshot_amd64.deb",
+        "content_type": "application/x-deb",
+        "state": "uploaded",
+        "size": 1562984,
+        "download_count": 0
+      },
+      {
+        "updated_at": "2013-09-23T01:07:56Z",
+        "created_at": "2013-09-23T01:05:50Z",
+        "url": "https://api.github.com/repos/jingweno/gh/releases/assets/20429",
+        "id": 20429,
+        "name": "gh_0.23.0-snapshot_darwin_386.tar.gz",
+        "label": "gh_0.23.0-snapshot_darwin_386.tar.gz",
+        "content_type": "application/x-gzip",
+        "state": "uploaded",
+        "size": 1506673,
+        "download_count": 0
+      },
+      {
+        "updated_at": "2013-09-23T01:07:56Z",
+        "created_at": "2013-09-23T01:06:10Z",
+        "url": "https://api.github.com/repos/jingweno/gh/releases/assets/20431",
+        "id": 20431,
+        "name": "gh_0.23.0-snapshot_darwin_amd64.tar.gz",
+        "label": "gh_0.23.0-snapshot_darwin_amd64.tar.gz",
+        "content_type": "application/x-gzip",
+        "state": "uploaded",
+        "size": 1559792,
+        "download_count": 1
+      },
+      {
+        "updated_at": "2013-09-23T01:07:56Z",
+        "created_at": "2013-09-23T01:06:28Z",
+        "url": "https://api.github.com/repos/jingweno/gh/releases/assets/20432",
+        "id": 20432,
+        "name": "gh_0.23.0-snapshot_i386.deb",
+        "label": "gh_0.23.0-snapshot_i386.deb",
+        "content_type": "application/x-deb",
+        "state": "uploaded",
+        "size": 1499090,
+        "download_count": 0
+      },
+      {
+        "updated_at": "2013-09-23T01:07:56Z",
+        "created_at": "2013-09-23T01:06:46Z",
+        "url": "https://api.github.com/repos/jingweno/gh/releases/assets/20433",
+        "id": 20433,
+        "name": "gh_0.23.0-snapshot_linux_386.tar.gz",
+        "label": "gh_0.23.0-snapshot_linux_386.tar.gz",
+        "content_type": "application/x-gzip",
+        "state": "uploaded",
+        "size": 1502350,
+        "download_count": 0
+      },
+      {
+        "updated_at": "2013-09-23T01:07:56Z",
+        "created_at": "2013-09-23T01:07:04Z",
+        "url": "https://api.github.com/repos/jingweno/gh/releases/assets/20435",
+        "id": 20435,
+        "name": "gh_0.23.0-snapshot_linux_amd64.tar.gz",
+        "label": "gh_0.23.0-snapshot_linux_amd64.tar.gz",
+        "content_type": "application/x-gzip",
+        "state": "uploaded",
+        "size": 1566096,
+        "download_count": 0
+      },
+      {
+        "updated_at": "2013-09-23T01:07:56Z",
+        "created_at": "2013-09-23T01:07:22Z",
+        "url": "https://api.github.com/repos/jingweno/gh/releases/assets/20437",
+        "id": 20437,
+        "name": "gh_0.23.0-snapshot_windows_386.zip",
+        "label": "gh_0.23.0-snapshot_windows_386.zip",
+        "content_type": "application/zip",
+        "state": "uploaded",
+        "size": 1451886,
+        "download_count": 0
+      },
+      {
+        "updated_at": "2013-09-23T01:07:56Z",
+        "created_at": "2013-09-23T01:07:38Z",
+        "url": "https://api.github.com/repos/jingweno/gh/releases/assets/20438",
+        "id": 20438,
+        "name": "gh_0.23.0-snapshot_windows_amd64.zip",
+        "label": "gh_0.23.0-snapshot_windows_amd64.zip",
+        "content_type": "application/zip",
+        "state": "uploaded",
+        "size": 1520713,
+        "download_count": 0
+      }
+    ],
+    "published_at": "2013-09-23T01:07:56Z",
+    "created_at": "2013-09-23T00:59:10Z",
+    "prerelease": false,
+    "draft": false,
+    "body": "* Windows works!: https://github.com/jingweno/gh/commit/6cb80cb09fd9f624a64d85438157955751a9ac70",
+    "url": "https://api.github.com/repos/jingweno/gh/releases/50013",
+    "assets_url": "https://api.github.com/repos/jingweno/gh/releases/50013/assets",
+    "upload_url": "https://uploads.github.com/repos/jingweno/gh/releases/50013/assets{?name}",
+    "html_url": "https://github.com/jingweno/gh/releases/v0.23.0",
+    "id": 50013,
+    "tag_name": "v0.23.0",
+    "target_commitish": "master",
+    "name": "v0.23.0"
+  }
+]

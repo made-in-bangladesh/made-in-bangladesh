@@ -1,0 +1,31 @@
+hash: b70f4179c9d579fc2019391e34950a48d4a534d46d2283cb969207de19c6bb31
+updated: 2018-07-26T15:38:21.40572+08:00
+imports: []
+testImports:
+- name: github.com/andybalholm/cascadia
+  version: 3ad29d1ad1c4f2023e355603324348cf1f4b2d48
+- name: github.com/fhs/go-netrc
+  version: 4ffed54ee5c32ebfb1b8c7c72fc90bb08dc3ff43
+  subpackages:
+  - netrc
+- name: github.com/jingweno/go-sawyer
+  version: 1999ae5763d678f3ce1112cf1fda7c7e9cf2aadf
+  subpackages:
+  - hypermedia
+  - mediaheader
+  - mediatype
+- name: github.com/jtacoma/uritemplates
+  version: 307ae868f90f4ee1b73ebe4596e0394237dacce8
+- name: github.com/octokit/go-octokit
+  version: 812e91dfbd64051c1ec72c48feda0278727e8a4e
+  subpackages:
+  - octokit
+- name: github.com/PuerkitoBio/goquery
+  version: dc2ec5c7ca4d9aae063b79b9f581dd3ea6afd2b2
+- name: github.com/russross/blackfriday
+  version: 11635eb403ff09dbc3a6b5a007ab5ab09151c229
+- name: golang.org/x/net
+  version: 59a0b19b5533c7977ddeb86b017bf507ed407b12
+  subpackages:
+  - html
+  - html/atom
