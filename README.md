@@ -19,6 +19,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [appzcoder/lumen-route-list](https://github.com/appzcoder/lumen-route-list) - Lumen Route List.
     * [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON.
     * [tareq1988/wordpress-settings-api-class](https://github.com/tareq1988/wordpress-settings-api-class) - A PHP class abstraction that removes all the headaches of the WordPress settings API under the hood and builds a nice options panel on the fly.
+    * [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by Laravel & VueJS.
 - Python
     * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
 
