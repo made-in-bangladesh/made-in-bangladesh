@@ -10,6 +10,11 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [sadlil/go-trigger](https://github.com/sadlil/go-trigger) - A Global event triggerer for golang. Defines functions as event with id string. Trigger the event anywhere from your project.
     * [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON Data.
     * [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
+- Java
+    * [mmahmoodictbd/production-ready-microservices-starter](https://github.com/mmahmoodictbd/production-ready-microservices-starter) - Production ready multi-tenant microservices. Business microservice can be built on top of it.
+    * [mmahmoodictbd/OpenBlog](https://github.com/mmahmoodictbd/OpenBlog) - Blogging engine in Java.
+    * [ChumbokIT/chumbok-spring-boot-starter-data-jpa-multitenancy](https://github.com/ChumbokIT/chumbok-spring-boot-starter-data-jpa-multitenancy) A library to enable multi-tenancy in Spring Data JPA.
+    * [ChumbokIT/testable-common](https://github.com/ChumbokIT/testable-common) Unit testing is difficult for static methods in Java. Testable Common provide bunch of Utils classes where methods are testable.
 - Kotlin
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
     * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin / Java / Android.
