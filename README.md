@@ -24,6 +24,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by Laravel & VueJS.
 - Python
     * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
+    * [hasibzunair/pynotify](https://github.com/hasibzunair/pynotify) - A Python package to send emails like a human.
 
 Note : List is sorted lexicographically by programming language and repo.
 ```
