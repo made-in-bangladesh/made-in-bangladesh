@@ -26,6 +26,8 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
     * [s1s1ty/gittivity](https://github.com/s1s1ty/gittivity) - Desktop notifier for git browser activity
     * [hasibzunair/pynotify](https://github.com/hasibzunair/pynotify) - A Python package to send emails like a human.
+    * [shopnilsazal/validus](https://github.com/shopnilsazal/validus) - A dead simple Python string validation library.
+    * [shopnilsazal/simple-bcrypt](https://github.com/shopnilsazal/simple-bcrypt) - Bcrypt hashing utilities for `Flask/Sanic/Quart/Eve` application.
 
 Note : List is sorted lexicographically by programming language and repo.
 ```
