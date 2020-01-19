@@ -10,6 +10,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [sadlil/go-trigger](https://github.com/sadlil/go-trigger) - A Global event triggerer for golang. Defines functions as event with id string. Trigger the event anywhere from your project.
     * [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON Data.
     * [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
+    * [shopnilsazal/checkr](https://github.com/shopnilsazal/checkr) - A CLI tool to check whether a package name is available on different package managers.
 - Java
     * [mmahmoodictbd/production-ready-microservices-starter](https://github.com/mmahmoodictbd/production-ready-microservices-starter) - Production ready multi-tenant microservices. Business microservice can be built on top of it.
 - Kotlin
