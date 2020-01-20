@@ -12,6 +12,10 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
 - Java
     * [mmahmoodictbd/production-ready-microservices-starter](https://github.com/mmahmoodictbd/production-ready-microservices-starter) - Production ready multi-tenant microservices. Business microservice can be built on top of it.
+- JavaScript
+    * [theanam/otp-without-db](https://github.com/theanam/otp-without-db#readme) - OTP authentication helper library that works without any database.
+    * [theanam/react-simple-conditional](https://github.com/theanam/react-simple-conditional) - Reneder something conditionally in React/React Native without using ternary.
+    * [fa7ad/create-react-parcel-project](https://github.com/fa7ad/create-react-parcel-project) - A Create-React-App style CLI that generates a React app with parcel bundler.
 - Kotlin
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
     * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin / Java / Android.
