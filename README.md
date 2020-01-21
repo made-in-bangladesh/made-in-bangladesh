@@ -1,7 +1,8 @@
 # Made In Bangladesh
 
 A curated list of awesome frameworks, libraries and software made in Bangladesh.
-
+- CSS
+    * [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple line icons with CSS, SASS, LESS & Web-fonts files.
 - Erlang
     * [emqtt/emq-web-hook](https://github.com/emqtt/emq-web-hook) - EMQ Web Hook Plugin.
 - Golang
@@ -33,6 +34,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
     * [shopnilsazal/validus](https://github.com/shopnilsazal/validus) - A dead simple Python string validation library.
     * [shopnilsazal/simple-bcrypt](https://github.com/shopnilsazal/simple-bcrypt) - Bcrypt hashing utilities for `Flask/Sanic/Quart/Eve` application.
 
+  
 Note : List is sorted lexicographically by programming language and repo.
 ```
 // format
