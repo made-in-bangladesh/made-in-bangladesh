@@ -17,9 +17,18 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh.
 - JavaScript
     * [theanam/otp-without-db](https://github.com/theanam/otp-without-db#readme) - OTP authentication helper library that works without any database.
     * [fa7ad/spotprox](https://github.com/fa7ad/spotprox) - Automatically find a free US proxy for spotify
+    * [sarim/ibus-avro](https://github.com/sarim/ibus-avro) - Avro phonetic bangla typing layout for ibus
+    * [proshoumma/ReForum](https://github.com/proshoumma/ReForum) - A minimal forum board application. Built on top of React, Express (with PassportJS for OAuth) and MongoDB. 
+    * [proshoumma/react-native-off-canvas-menu](https://github.com/proshoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications. Built on top of react-native's Animated library.
+    * [proshoumma/organigram](https://github.com/proshoumma/organigram) - A JSON based tree structure with drag and drop functionally to re-arrange the tree.
+    * [agontuk/react-native-collapsible-toolbar](https://github.com/Agontuk/react-native-collapsible-toolbar) - Pure JS based collapsible toolbar for react native on Android and iOS
+    * [agontuk/react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service) - React native geolocation service for iOS and android
+
 - Kotlin
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
     * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin / Java / Android.
+- Pascal
+    * [mugli/Avro-Keyboard](https://github.com/mugli/Avro-Keyboard) - Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows 
 - PHP
     * [appzcoder/crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator.
     * [appzcoder/laravel-admin](https://github.com/appzcoder/laravel-admin) - Laravel Admin Panel.
