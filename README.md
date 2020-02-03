@@ -52,7 +52,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [usmanhalalit/pixie](https://github.com/usmanhalalit/pixie) - Database query builder for PHP, framework agnostic, lightweight and expressive.
     * [usmanhalalit/laracsv](https://github.com/usmanhalalit/laracsv) - A Laravel package to easily generate CSV files from Eloquent model.
     * [nahid/talk](https://github.com/nahid/talk) - Talk is a Laravel 5 based realtime users messaging and chatting system.
-
+    * [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - A library package to use Laravel's Eloquent ORM with WordPress.
 - Python
     * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
     * [s1s1ty/gittivity](https://github.com/s1s1ty/gittivity) - Desktop notifier for git browser activity
