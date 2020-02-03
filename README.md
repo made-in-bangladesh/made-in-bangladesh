@@ -61,6 +61,8 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [shopnilsazal/simple-bcrypt](https://github.com/shopnilsazal/simple-bcrypt) - Bcrypt hashing utilities for `Flask/Sanic/Quart/Eve` application.
     * [lordAmit/Brightness](https://github.com/LordAmit/Brightness) - Brightness Controller and display utility application for Linux. It supports an arbitrary number of displays.
     * [maateen/battery-monitor](https://github.com/maateen/battery-monitor) - A utility tool, notifies user about charging, discharging and not charging state of the battery on Linux.
+- Swift
+    * [partho-maple/PBTreeView](https://github.com/partho-maple/PBTreeView) - An UITreeView implementation from UITableView that Apple missed in its UIKit framework.
     
 
   
