@@ -63,7 +63,10 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [maateen/battery-monitor](https://github.com/maateen/battery-monitor) - A utility tool, notifies user about charging, discharging and not charging state of the battery on Linux.
 - Swift
     * [partho-maple/PBTreeView](https://github.com/partho-maple/PBTreeView) - An UITreeView implementation from UITableView that Apple missed in its UIKit framework.
-    
+    * [rishi420/Bonsai](https://github.com/rishi420/Bonsai) - 🌲 Bonsai makes your view controller custom size.
+    * [https://github.com/webadnan/swift-debouncer](https://github.com/webadnan/swift-debouncer) - A simple class to debounce swift method, something like JavaScript debounce function
+
+
 
   
 Note : List is sorted lexicographically by programming language and repo.
