@@ -3,6 +3,9 @@
 A curated list of awesome frameworks, libraries and software made in Bangladesh
 - Bash
     * [p1r-a-t3/Hacker-Playbook-Utility](https://github.com/p1r-a-t3/Hacker-Playbook-Utility) - A Python3 powered bash script written to slightly automate the tool installation process of the Hacker Playbook Book (http://thehackerplaybook.com).
+    * [halfo/lambda-mod-zsh-theme](https://github.com/halfo/lambda-mod-zsh-theme) - A ZSH theme optimized for people who use git and unicode-compatible fonts and terminals.
+- C
+    * [neurobin/shc](https://github.com/neurobin/shc) - A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. 
 - CSS
     * [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple line icons with CSS, SASS, LESS & Web-fonts files.
 - Erlang
