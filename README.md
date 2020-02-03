@@ -64,7 +64,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
 - Swift
     * [partho-maple/PBTreeView](https://github.com/partho-maple/PBTreeView) - An UITreeView implementation from UITableView that Apple missed in its UIKit framework.
     * [rishi420/Bonsai](https://github.com/rishi420/Bonsai) - 🌲 Bonsai makes your view controller custom size.
-    * [https://github.com/webadnan/swift-debouncer](https://github.com/webadnan/swift-debouncer) - A simple class to debounce swift method, something like JavaScript debounce function
+    * [webadnan/swift-debouncer](https://github.com/webadnan/swift-debouncer) - A simple class to debounce swift method, something like JavaScript debounce function
 
 
 
