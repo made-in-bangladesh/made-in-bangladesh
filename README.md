@@ -14,8 +14,13 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON Data.
     * [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
     * [shopnilsazal/checkr](https://github.com/shopnilsazal/checkr) - A CLI tool to check whether a package name is available on different package managers.
+- HTML
+    * [usmanhalalit/charisma](https://github.com/usmanhalalit/charisma) - Free, premium quality, responsive, multiple skin admin template.
+
 - Java
     * [mmahmoodictbd/production-ready-microservices-starter](https://github.com/mmahmoodictbd/production-ready-microservices-starter) - Production ready multi-tenant microservices. Business microservice can be built on top of it.
+    * [alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
+
 - JavaScript
     * [theanam/otp-without-db](https://github.com/theanam/otp-without-db#readme) - OTP authentication helper library that works without any database.
     * [fa7ad/spotprox](https://github.com/fa7ad/spotprox) - Automatically find a free US proxy for spotify
@@ -38,12 +43,20 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON.
     * [tareq1988/wordpress-settings-api-class](https://github.com/tareq1988/wordpress-settings-api-class) - A PHP class abstraction that removes all the headaches of the WordPress settings API under the hood and builds a nice options panel on the fly.
     * [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by Laravel & VueJS.
+    * [nahid/jsonq](https://github.com/nahid/jsonq) - JsonQ is a simple, elegant PHP package to Query over any type of JSON Data
+    * [usmanhalalit/pixie](https://github.com/usmanhalalit/pixie) - Database query builder for PHP, framework agnostic, lightweight and expressive.
+    * [usmanhalalit/laracsv](https://github.com/usmanhalalit/laracsv) - A Laravel package to easily generate CSV files from Eloquent model.
+    * [nahid/talk](https://github.com/nahid/talk) - Talk is a Laravel 5 based realtime users messaging and chatting system.
+
 - Python
     * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
     * [s1s1ty/gittivity](https://github.com/s1s1ty/gittivity) - Desktop notifier for git browser activity
     * [hasibzunair/pynotify](https://github.com/hasibzunair/pynotify) - A Python package to send emails like a human.
     * [shopnilsazal/validus](https://github.com/shopnilsazal/validus) - A dead simple Python string validation library.
     * [shopnilsazal/simple-bcrypt](https://github.com/shopnilsazal/simple-bcrypt) - Bcrypt hashing utilities for `Flask/Sanic/Quart/Eve` application.
+    * [lordAmit/Brightness](https://github.com/LordAmit/Brightness) - Brightness Controller and display utility application for Linux. It supports an arbitrary number of displays.
+    * [maateen/battery-monitor](https://github.com/maateen/battery-monitor) - A utility tool, notifies user about charging, discharging and not charging state of the battery on Linux.
+    
 
   
 Note : List is sorted lexicographically by programming language and repo.
