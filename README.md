@@ -8,6 +8,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [neurobin/shc](https://github.com/neurobin/shc) - A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. 
 - C++
     * [neurobin/rnm](https://github.com/neurobin/rnm) - Unix bulk rename utility.
+    * [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard) - An OpenSource, Unicode compliant Bengali Input Method.
 - CSS
     * [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple line icons with CSS, SASS, LESS & Web-fonts files.
 - Erlang
@@ -61,6 +62,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [shopnilsazal/simple-bcrypt](https://github.com/shopnilsazal/simple-bcrypt) - Bcrypt hashing utilities for `Flask/Sanic/Quart/Eve` application.
     * [lordAmit/Brightness](https://github.com/LordAmit/Brightness) - Brightness Controller and display utility application for Linux. It supports an arbitrary number of displays.
     * [maateen/battery-monitor](https://github.com/maateen/battery-monitor) - A utility tool, notifies user about charging, discharging and not charging state of the battery on Linux.
+    * [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django.
 - Swift
     * [partho-maple/PBTreeView](https://github.com/partho-maple/PBTreeView) - An UITreeView implementation from UITableView that Apple missed in its UIKit framework.
     * [rishi420/Bonsai](https://github.com/rishi420/Bonsai) - 🌲 Bonsai makes your view controller custom size.
