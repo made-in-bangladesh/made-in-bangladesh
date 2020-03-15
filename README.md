@@ -10,6 +10,8 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [neurobin/rnm](https://github.com/neurobin/rnm) - Unix bulk rename utility.
 - CSS
     * [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple line icons with CSS, SASS, LESS & Web-fonts files.
+- Dart/Flutter
+    * [adar2378/pin_code_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs.
 - Erlang
     * [emqtt/emq-web-hook](https://github.com/emqtt/emq-web-hook) - EMQ Web Hook Plugin.
 - Golang
