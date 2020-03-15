@@ -53,6 +53,8 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [usmanhalalit/laracsv](https://github.com/usmanhalalit/laracsv) - A Laravel package to easily generate CSV files from Eloquent model.
     * [nahid/talk](https://github.com/nahid/talk) - Talk is a Laravel 5 based realtime users messaging and chatting system.
     * [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - A library package to use Laravel's Eloquent ORM with WordPress.
+    * [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode) - Division, District, Upazila and, Union level fully mapped Dataset in SQL, CSV, JSON, XML, and PHP format.
+    * [devfaysal/laravel-bangladesh-geocode](https://github.com/devfaysal/laravel-bangladesh-geocode) - Division, District and Upazila data of Bangladesh for Laravel application.
 - Python
     * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
     * [s1s1ty/gittivity](https://github.com/s1s1ty/gittivity) - Desktop notifier for git browser activity
