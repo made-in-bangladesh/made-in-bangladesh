@@ -67,6 +67,9 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [lordAmit/Brightness](https://github.com/LordAmit/Brightness) - Brightness Controller and display utility application for Linux. It supports an arbitrary number of displays.
     * [maateen/battery-monitor](https://github.com/maateen/battery-monitor) - A utility tool, notifies user about charging, discharging and not charging state of the battery on Linux.
     * [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django.
+    * [alaminopu/pdf_downloader](https://github.com/alaminopu/pdf_downloader) - A Scrapy Spider for downloading PDF files from a webpage.
+- Rust
+    * [alaminopu/kctl](https://github.com/alaminopu/kctl) - A CLI wrapper for making kubernetes commands much easier
 - Swift
     * [partho-maple/PBTreeView](https://github.com/partho-maple/PBTreeView) - An UITreeView implementation from UITableView that Apple missed in its UIKit framework.
     * [rishi420/Bonsai](https://github.com/rishi420/Bonsai) - 🌲 Bonsai makes your view controller custom size.
