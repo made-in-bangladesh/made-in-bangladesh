@@ -2,6 +2,7 @@
 
 A curated list of awesome frameworks, libraries and software made in Bangladesh
 - Bash
+    * [Uniminin/Ripple-Auto-Installer](https://github.com/Uniminin/Ripple-Auto-Installer) - OSU!Ripple Private Server Installer. 
     * [p1r-a-t3/Hacker-Playbook-Utility](https://github.com/p1r-a-t3/Hacker-Playbook-Utility) - A Python3 powered bash script written to slightly automate the tool installation process of the Hacker Playbook Book (http://thehackerplaybook.com).
     * [halfo/lambda-mod-zsh-theme](https://github.com/halfo/lambda-mod-zsh-theme) - A ZSH theme optimized for people who use git and unicode-compatible fonts and terminals.
 - C
