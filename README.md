@@ -67,6 +67,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [maateen/battery-monitor](https://github.com/maateen/battery-monitor) - A utility tool, notifies user about charging, discharging and not charging state of the battery on Linux.
     * [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django.
     * [alaminopu/pdf_downloader](https://github.com/alaminopu/pdf_downloader) - A Scrapy Spider for downloading PDF files from a webpage.
+    * [ni8mr/coreui-django-boilerplate](https://github.com/ni8mr/coreui-django-boilerplate) - A boilerplate for Django project based on a free bootstrap admin template [CoreUI](https://coreui.io/).
 - Rust
     * [alaminopu/kctl](https://github.com/alaminopu/kctl) - A CLI wrapper for making kubernetes commands much easier
 - Swift
