@@ -5,7 +5,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [p1r-a-t3/Hacker-Playbook-Utility](https://github.com/p1r-a-t3/Hacker-Playbook-Utility) - A Python3 powered bash script written to slightly automate the tool installation process of the Hacker Playbook Book (http://thehackerplaybook.com).
     * [halfo/lambda-mod-zsh-theme](https://github.com/halfo/lambda-mod-zsh-theme) - A ZSH theme optimized for people who use git and unicode-compatible fonts and terminals.
 - C
-    * [neurobin/shc](https://github.com/neurobin/shc) - A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code. 
+    * [neurobin/shc](https://github.com/neurobin/shc) - A generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code.
 - C++
     * [neurobin/rnm](https://github.com/neurobin/rnm) - Unix bulk rename utility.
     * [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard) - An OpenSource, Unicode compliant Bengali Input Method.
@@ -33,7 +33,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [theanam/otp-without-db](https://github.com/theanam/otp-without-db#readme) - OTP authentication helper library that works without any database.
     * [fa7ad/spotprox](https://github.com/fa7ad/spotprox) - Automatically find a free US proxy for spotify
     * [sarim/ibus-avro](https://github.com/sarim/ibus-avro) - Avro phonetic bangla typing layout for ibus
-    * [proshoumma/ReForum](https://github.com/proshoumma/ReForum) - A minimal forum board application. Built on top of React, Express (with PassportJS for OAuth) and MongoDB. 
+    * [proshoumma/ReForum](https://github.com/proshoumma/ReForum) - A minimal forum board application. Built on top of React, Express (with PassportJS for OAuth) and MongoDB.
     * [proshoumma/react-native-off-canvas-menu](https://github.com/proshoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications. Built on top of react-native's Animated library.
     * [proshoumma/organigram](https://github.com/proshoumma/organigram) - A JSON based tree structure with drag and drop functionally to re-arrange the tree.
     * [agontuk/react-native-collapsible-toolbar](https://github.com/Agontuk/react-native-collapsible-toolbar) - Pure JS based collapsible toolbar for react native on Android and iOS
@@ -43,12 +43,11 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
     * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin / Java / Android.
 - Pascal
-    * [mugli/Avro-Keyboard](https://github.com/mugli/Avro-Keyboard) - Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows 
+    * [mugli/Avro-Keyboard](https://github.com/mugli/Avro-Keyboard) - Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows
 - PHP
     * [appzcoder/crud-generator](https://github.com/appzcoder/crud-generator) - Laravel CRUD Generator.
     * [appzcoder/laravel-admin](https://github.com/appzcoder/laravel-admin) - Laravel Admin Panel.
     * [appzcoder/lumen-route-list](https://github.com/appzcoder/lumen-route-list) - Lumen Route List.
-    * [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON.
     * [tareq1988/wordpress-settings-api-class](https://github.com/tareq1988/wordpress-settings-api-class) - A PHP class abstraction that removes all the headaches of the WordPress settings API under the hood and builds a nice options panel on the fly.
     * [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by Laravel & VueJS.
     * [nahid/jsonq](https://github.com/nahid/jsonq) - JsonQ is a simple, elegant PHP package to Query over any type of JSON Data
@@ -68,6 +67,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [maateen/battery-monitor](https://github.com/maateen/battery-monitor) - A utility tool, notifies user about charging, discharging and not charging state of the battery on Linux.
     * [safwanrahman/django-webpush](https://github.com/safwanrahman/django-webpush) - Web Push Notification Package for Django.
     * [alaminopu/pdf_downloader](https://github.com/alaminopu/pdf_downloader) - A Scrapy Spider for downloading PDF files from a webpage.
+    * [ni8mr/coreui-django-boilerplate](https://github.com/ni8mr/coreui-django-boilerplate) - A boilerplate for Django project based on a free bootstrap admin template [CoreUI](https://coreui.io/).
     * [django-es/django-elasticsearch-dsl](https://github.com/django-es/django-elasticsearch-dsl) - A package that allows indexing of django models in Elasticsearch.
 - Rust
     * [alaminopu/kctl](https://github.com/alaminopu/kctl) - A CLI wrapper for making kubernetes commands much easier
@@ -78,7 +78,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
 
 
 
-  
+
 Note : List is sorted lexicographically by programming language and repo.
 ```
 // format
