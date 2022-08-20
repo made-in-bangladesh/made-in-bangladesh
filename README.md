@@ -57,6 +57,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - A library package to use Laravel's Eloquent ORM with WordPress.
     * [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode) - Division, District, Upazila and, Union level fully mapped Dataset in SQL, CSV, JSON, XML, and PHP format.
     * [devfaysal/laravel-bangladesh-geocode](https://github.com/devfaysal/laravel-bangladesh-geocode) - Division, District and Upazila data of Bangladesh for Laravel application.
+    * [rakibdevs/number-to-bangla](https://github.com/RakibDevs/number-to-bangla) - Laravel package to convert English numbers to Bangla number or Bangla text, Bangla month name and Bangla Money Format
 - Python
     * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
     * [s1s1ty/gittivity](https://github.com/s1s1ty/gittivity) - Desktop notifier for git browser activity
