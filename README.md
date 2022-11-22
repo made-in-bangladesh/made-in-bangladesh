@@ -14,7 +14,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
 - Dart/Flutter
     * [adar2378/pin_code_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs.
 - Erlang
-    * [emqtt/emq-web-hook](https://github.com/emqtt/emq-web-hook) - EMQ Web Hook Plugin.
+    * [emqx/emqx-web-hook](https://github.com/emqx/emqx-web-hook) - EMQX Web Hook Plugin.
 - Golang
     * [nahid/gohttp](https://github.com/nahid/gohttp) - HTTP client for Go.
     * [sadlil/go-avro-phonetic](https://github.com/sadlil/go-avro-phonetic) - Golang implementation of Avro Phonetic.
@@ -22,13 +22,12 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON Data.
     * [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
     * [shopnilsazal/checkr](https://github.com/shopnilsazal/checkr) - A CLI tool to check whether a package name is available on different package managers.
+    * [s4kibs4mi/jally-commerce-bot](https://github.com/s4kibs4mi/jally-commerce-bot) - A bot for automating order management systems on social media & messaging platforms.
 - HTML
     * [usmanhalalit/charisma](https://github.com/usmanhalalit/charisma) - Free, premium quality, responsive, multiple skin admin template.
-
 - Java
     * [mmahmoodictbd/production-ready-microservices-starter](https://github.com/mmahmoodictbd/production-ready-microservices-starter) - Production ready multi-tenant microservices. Business microservice can be built on top of it.
     * [alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
-
 - JavaScript
     * [theanam/otp-without-db](https://github.com/theanam/otp-without-db#readme) - OTP authentication helper library that works without any database.
     * [fa7ad/spotprox](https://github.com/fa7ad/spotprox) - Automatically find a free US proxy for spotify
@@ -38,10 +37,8 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [proshoumma/organigram](https://github.com/proshoumma/organigram) - A JSON based tree structure with drag and drop functionally to re-arrange the tree.
     * [agontuk/react-native-collapsible-toolbar](https://github.com/Agontuk/react-native-collapsible-toolbar) - Pure JS based collapsible toolbar for react native on Android and iOS
     * [agontuk/react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service) - React native geolocation service for iOS and android
-
 - Kotlin
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
-    * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin / Java / Android.
 - Pascal
     * [mugli/Avro-Keyboard](https://github.com/mugli/Avro-Keyboard) - Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows
 - PHP
