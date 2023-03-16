@@ -29,6 +29,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [mmahmoodictbd/production-ready-microservices-starter](https://github.com/mmahmoodictbd/production-ready-microservices-starter) - Production ready multi-tenant microservices. Business microservice can be built on top of it.
     * [alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
 - JavaScript
+    * [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - Create a dynamic portfolio by just providing GitHub username.
     * [theanam/otp-without-db](https://github.com/theanam/otp-without-db#readme) - OTP authentication helper library that works without any database.
     * [fa7ad/spotprox](https://github.com/fa7ad/spotprox) - Automatically find a free US proxy for spotify
     * [sarim/ibus-avro](https://github.com/sarim/ibus-avro) - Avro phonetic bangla typing layout for ibus
