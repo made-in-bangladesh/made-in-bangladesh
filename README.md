@@ -57,6 +57,8 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [rakibdevs/number-to-bangla](https://github.com/RakibDevs/number-to-bangla) - Laravel package to convert English numbers to Bangla number or Bangla text, Bangla month name and Bangla Money Format
     * [rakibdevs/mrz-parser](https://github.com/RakibDevs/mrz-parser) - A PHP package for MRZ (Machine Readable Zones) code parser for Passport, Visa & Travel Document (TD1 & TD2)
 - Python
+    * [sudiptob2/cf-stats](https://github.com/sudiptob2/cf-stats) - A github action based realtime Codeforces activity statistics card and badge generator.
+    * [sudiptob2/leetEasy](https://github.com/sudiptob2/leet-easy) - Get notification when leetcode publishes an easy daily challenge and grab your leetcoins.
     * [s1s1ty/py-jsonq](https://github.com/s1s1ty/py-jsonq) - A Python query builder for JSON.
     * [s1s1ty/gittivity](https://github.com/s1s1ty/gittivity) - Desktop notifier for git browser activity
     * [hasibzunair/pynotify](https://github.com/hasibzunair/pynotify) - A Python package to send emails like a human.
